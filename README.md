@@ -2,9 +2,9 @@
 
 Following are the file description:
 
-    1.RNN_from_scratch file has inintial code without any improvement
+    1.RNN_from_scratch file has initial code without any improvement
 
-    2.RNN_from_scratch2 file has improved code with xavier inintialization 
+    2.RNN_from_scratch2 file has improved code with xavier initialization 
 
     3.stock prediction file is tensorflow implementation
 
